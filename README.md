@@ -6,9 +6,9 @@ Welcome to my GitHub profile!
 
 I am an ICT graduate from the **University of Mpumalanga**, holding a Diploma in ICT in Applications Development, completed in 2026.
 
-I am passionate about software development, application development, software testing and building technology solutions that solve real-world problems.
+I am passionate about designing, developing and testing software applications that solve real-world problems. My interests include software engineering, backend development, web and Android application development, and quality assurance automation.
 
-I enjoy learning new technologies, developing practical applications and continuously improving my programming skills.
+I enjoy turning ideas into practical solutions, exploring new technologies and continuously strengthening my technical skills through hands-on projects.
 
 ---
 
@@ -22,14 +22,16 @@ Completed: 2026
 
 ## 💻 Technical Skills
 
-- **Programming:** Java, JavaScript, Kotlin
-- **Web Development:** HTML5, CSS3, React
-- **Backend Development:** Node.js, Express.js, REST APIs
-- **Mobile Development:** Android Development, Android Studio, Jetpack Compose
-- **Databases:** SQLite, Firebase, Firestore
-- **Software Testing:** Selenium, REST Assured, TestNG
-- **Build Tools:** Maven, npm, Gradle
-- **Development Tools:** Git, GitHub, VS Code
+| Category | Technologies |
+|---|---|
+| Programming Languages | Java, JavaScript, Kotlin |
+| Web Development | HTML5, CSS3, React |
+| Backend Development | Node.js, Express.js, REST APIs |
+| Android Development | Android Studio, Android SDK, Jetpack Compose |
+| Databases | SQLite, Firebase, Firestore, MySQL |
+| Software Testing | Selenium WebDriver, REST Assured, TestNG |
+| Build Tools | Maven, npm, Gradle |
+| Development Tools | Git, GitHub, VS Code |
 
 ---
 
@@ -37,21 +39,27 @@ Completed: 2026
 
 ### 1. AutoTest QA Platform
 
-A Java-based software quality assurance and automation testing platform designed to automate web application and API testing.
+**A Java-based test automation and quality assurance platform for web applications and REST APIs.**
 
-**Technologies:** Java, Selenium, REST Assured, TestNG, Maven.
+Developed to automate software testing and provide a centralized dashboard for monitoring test execution and analysing application quality.
+
+**Technologies:** Java, Selenium WebDriver, REST Assured, TestNG, Maven, HTML, CSS, JavaScript.
 
 **Key Features:**
-- Automated API testing.
+- Automated REST API testing.
 - Automated web application testing.
-- Test execution management.
-- Live test monitoring.
+- Centralized test execution management.
+- Live test execution monitoring.
 - Performance analytics and reporting.
-- Test execution history and results tracking.
+- Execution history and test result tracking.
+
+🔗 **[View Repository](https://github.com/thabisomadonsela171-crypto/autotest-qa-platform)**
 
 ### 2. SAC Customs Management System
 
-A web-based customs management application designed to support customs operations and shipment management.
+**A web-based customs management application designed to support customs operations and shipment management.**
+
+Developed to support shipment processing, user management and operational workflows through a web-based system.
 
 **Technologies:** React, Node.js, Express.js, SQLite, JWT.
 
@@ -59,12 +67,15 @@ A web-based customs management application designed to support customs operation
 - Shipment management.
 - Role-based access control.
 - REST API integration.
-- Authentication and authorization.
+- User authentication and authorization.
 - Shipment status management.
+- Backend and frontend integration.
+
+🔗 **[View Repository](https://github.com/thabisomadonsela171-crypto/sac-customs-management-system)**
 
 ### 3. HustleFix Android Application
 
-An Android application designed to connect job seekers with employers and simplify the job application process.
+**An Android application designed to connect job seekers with employers and simplify the job application process.**
 
 **Technologies:** Java, Android Studio, Firebase.
 
@@ -77,7 +88,7 @@ An Android application designed to connect job seekers with employers and simpli
 
 ### 4. South African Cargo Management System (SCACMS)
 
-A cargo management solution designed to support shipment tracking, cargo inspections and logistics operations.
+**A cargo management solution designed to support shipment tracking, cargo inspections and logistics operations.**
 
 **Technologies:** HTML5, CSS3, JavaScript, PHP, MySQL/PDO.
 
@@ -92,7 +103,7 @@ A cargo management solution designed to support shipment tracking, cargo inspect
 
 ### 5. SalonSuite – Salon Management System
 
-A salon management solution connecting customers and salon owners through an Android booking application and a web-based management dashboard.
+**A salon management solution connecting customers and salon owners through an Android booking application and a web-based management dashboard.**
 
 **Technologies:** Kotlin, Jetpack Compose, Material 3, Node.js, JavaScript, SQLite, HTML5, CSS3, Retrofit, OkHttp.
 
@@ -112,30 +123,34 @@ A salon management solution connecting customers and salon owners through an And
 
 ## 🏆 Achievements & Certifications
 
-- Completed Diploma in ICT in Applications Development.
-- Achieved five academic distinctions.
-- Completed SANCS 3rd Edition (April 2026).
+- Completed a Diploma in ICT in Applications Development.
+- Achieved five academic distinctions during my studies.
+- Completed SANCS 3rd Edition – April 2026.
 - Participated in CIRS 2025.
 
 ---
 
 ## 🎯 Career Interests
 
+I am interested in opportunities that allow me to apply my technical knowledge, gain practical industry experience and contribute to software development teams.
+
+My career interests include:
+
 - Software Development
 - Application Development
 - Quality Assurance and Test Automation
 - Backend Development
 - Android Development
-- front-end  Development
-- Graduate IT Programmes
+- Frontend Development
+- IT and Technology Graduate Programmes
 
 ---
 
 ## 📫 Connect With Me
 
-- **GitHub:** https://github.com/thabisomadonsela171-crypto
+- **GitHub:** [thabisomadonsela171-crypto](https://github.com/thabisomadonsela171-crypto)
 - **LinkedIn:** Coming soon
 
 ---
 
-*Building solutions, learning continuously and growing as a software developer.* 🚀
+*Building practical solutions, learning continuously and growing as a software developer.* 🚀
